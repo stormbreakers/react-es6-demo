@@ -1,0 +1,30 @@
+{
+  "name": "react_app_02",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Joy"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "ReactJS"
+  ],
+  "moduleType": [
+    "es6",
+    "globals",
+    "node"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "blueimp-gallery": "~2.18.2"
+  }
+}
